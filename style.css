@@ -1,0 +1,42 @@
+body {
+    font-family: "Trebuchet MS", "Calibri Light";
+    background-image: url(media/blackjack.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    height: 100vh;
+
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.box {
+    background-color: rgba(31, 30, 30, 0.54);
+    padding: 0.5em;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    max-width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+button {
+    font-weight: bold;
+    font-size:100%;
+    color: #ffffff;
+    width: 150px;
+    background-color: #fcaa3f;
+    border-radius: 5px;
+    border-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top:5px;
+}
+
+#message-el {
+    font-size:130%;
+}
